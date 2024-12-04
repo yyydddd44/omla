@@ -17,7 +17,7 @@ signup.html: Page for new user registration.
 404.html: Error page displayed when a requested page is not found.
 How to Use:
 ## Preview
-![screencapture-127-0-0-1-5500-e-commerce-2024-02-09-15_11_03](https://github.com/httpsadnankhan/ecommerce/assets/120323286/759bdffc-c0a1-4741-adf5-2965f711e408)
+
 
 Clone this repository to your local machine.
 Open the index.html file in your web browser to explore the website.
